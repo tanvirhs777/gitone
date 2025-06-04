@@ -1,3 +1,7 @@
 four
 4
+<<<<<<< HEAD
 4
+=======
+dui
+>>>>>>> staging
